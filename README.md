@@ -1,3 +1,4 @@
+![cv image](./z.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# To Contact Me :
+## [Facebook](https://www.facebook.com/sandra.girgis.54)
+## [Linkedin](https://www.linkedin.com/in/sandra-girgis/)
+## [Email](mailto:totajo1999@gmail.com?subject=CV%20With%20React)
