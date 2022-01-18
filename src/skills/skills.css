@@ -1,0 +1,10 @@
+.progress{
+  height: 4.5vh !important;
+}
+.list-group-item {
+  color: white !important;
+  background-color: transparent !important;
+}
+.progress-bar{
+  background-color: #ffffff !important;
+}
